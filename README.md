@@ -1,4 +1,4 @@
-# Portal_Bancario-_Usuario
+# Portal_Bancario_Usuario
 Funcionalidades
  Registro y login con Spring Security (roles: USER, ADMIN).
  Panel con saldo, movimientos y perfil.
